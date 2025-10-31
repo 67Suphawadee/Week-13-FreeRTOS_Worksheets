@@ -1,0 +1,3 @@
+@echo off
+echo Building the project...
+idf.py build
